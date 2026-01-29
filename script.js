@@ -304,34 +304,34 @@ class WindyWeather extends Weathereffect{
 }
 
 const sunny_img = [
-    "url(../Photos/Sunny/blind-hk-ruy4SPfg-unsplash.jpg')", 
-    "url(../Photos/Sunny/jacob-dub-sgPiBo1oGUg-unsplash.jpg')", 
-    "url(../Photos/Sunny/jan-huber-yGOClW3KdKk-unsplash.jpg')",
-    "url(../Photos/Sunny/nareeta-martin-7Lk2Jjj4xb4-unsplash.jpg')"
+    "url(./Photos/Sunny/blind-hk-ruy4SPfg-unsplash.jpg')", 
+    "url(./Photos/Sunny/jacob-dub-sgPiBo1oGUg-unsplash.jpg')", 
+    "url(./Photos/Sunny/jan-huber-yGOClW3KdKk-unsplash.jpg')",
+    "url(./Photos/Sunny/nareeta-martin-7Lk2Jjj4xb4-unsplash.jpg')"
 ]
 const cloud_img = [
-    "url(../Photos/Cloud/ahmet-yuksek-MuB8snLj2xQ-unsplash.jpg')",
-    "url(../Photos/Cloud/daniil-silantev-3pW91fGAKiE-unsplash.jpg')",
-    "url(../Photos/Cloud/marek-piwnicki-e0mY8yx2SYY-unsplash.jpg')",
-    "url(../Photos/Cloud/subhadeep-dishant-zOKJbvnhhnA-unsplash.jpg')"
+    "url(./Photos/Cloud/ahmet-yuksek-MuB8snLj2xQ-unsplash.jpg')",
+    "url(./Photos/Cloud/daniil-silantev-3pW91fGAKiE-unsplash.jpg')",
+    "url(./Photos/Cloud/marek-piwnicki-e0mY8yx2SYY-unsplash.jpg')",
+    "url(./Photos/Cloud/subhadeep-dishant-zOKJbvnhhnA-unsplash.jpg')"
 ]
 const rain_img = [
-    "url(../Photos/Rainy/haiane-madoian-WdgxK2rbJeM-unsplash.jpg')",
-    "url(../Photos/Rainy/hasnan-monir-RI9thYGcroA-unsplash.jpg')",
-    "url(../Photos/Rainy/james-coleman-tmiN6tdlw0U-unsplash.jpg')",
-    "url(../Photos/Rainy/k8-JZU3aJ_wFiQ-unsplash.jpg')"
+    "url(./Photos/Rainy/haiane-madoian-WdgxK2rbJeM-unsplash.jpg')",
+    "url(./Photos/Rainy/hasnan-monir-RI9thYGcroA-unsplash.jpg')",
+    "url(./Photos/Rainy/james-coleman-tmiN6tdlw0U-unsplash.jpg')",
+    "url(./Photos/Rainy/k8-JZU3aJ_wFiQ-unsplash.jpg')"
 ]
 const wind_img = [
-    "url(../Photos/Windy/eddie-blair-Sc4cLY3XzLM-unsplash.jpg')",
-    "url(../Photos/Windy/jean-daniel-calame-7mezG1ieOHY-unsplash.jpg')",
-    "url(../Photos/Windy/michail-dementiev-mq0je_HLi9I-unsplash.jpg')",
-    "url(../Photos/Windy/rafael-garcin-Rzly4i-wA94-unsplash.jpg')"
+    "url(./Photos/Windy/eddie-blair-Sc4cLY3XzLM-unsplash.jpg')",
+    "url(./Photos/Windy/jean-daniel-calame-7mezG1ieOHY-unsplash.jpg')",
+    "url(./Photos/Windy/michail-dementiev-mq0je_HLi9I-unsplash.jpg')",
+    "url(./Photos/Windy/rafael-garcin-Rzly4i-wA94-unsplash.jpg')"
 ]
 const generic_img = [
-    "url(../Photos/Generic/daniel-sessler-IyhdFcaRYqE-unsplash.jpg')",
-    "url(../Photos/Generic/emma-swoboda-rJQZ1yYo-pg-unsplash.jpg')",
-    "url(../Photos/Generic/marek-piwnicki-Qoe1RbKPzMo-unsplash.jpg')",
-    "url(../Photos/Generic/steve-gribble-ZDw4bMLSUXA-unsplash.jpg')"
+    "url(./Photos/Generic/daniel-sessler-IyhdFcaRYqE-unsplash.jpg')",
+    "url(./Photos/Generic/emma-swoboda-rJQZ1yYo-pg-unsplash.jpg')",
+    "url(./Photos/Generic/marek-piwnicki-Qoe1RbKPzMo-unsplash.jpg')",
+    "url(./Photos/Generic/steve-gribble-ZDw4bMLSUXA-unsplash.jpg')"
 ]
 
 let randomIndex = Math.floor(Math.random() * sunny_img.length) ;  
